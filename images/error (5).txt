@@ -1,0 +1,12 @@
+<!DOCTYPE html><html lang='en'><head><meta charset='utf-8'><meta name='viewport' content-width='device-width', initial-scale='1', shrink-to-fit='no'><title>Standard User Page-MODULES</title><link rel="apple-touch-icon" type="image/x-icon" href="http://flycircuit.biobank.org.tw/favicon.ico" sizes="64x64" />
+	  <link rel="icon" type="image/x-icon" href="http://flycircuit.biobank.org.tw/favicon.ico" sizes="64x64" />
+	  <script src="http://flycircuit.biobank.org.tw/vendor/components/jquery/jquery.min.js" type="application/javascript"></script>
+      <script src="http://flycircuit.biobank.org.tw/vendor/components/bootstrap/js/bootstrap.min.js" type="application/javascript"></script>
+      <link href="http://flycircuit.biobank.org.tw/vendor/components/bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+      <link href="http://flycircuit.biobank.org.tw/login/css/main.css" rel="stylesheet" media="screen">
+      <!-- bootstrap & fontawesome -->
+      <link rel="stylesheet" href="http://flycircuit.biobank.org.tw/assets/font-awesome/4.5.0/css/font-awesome.min.css" />
+      <!-- text fonts -->
+      <link rel="stylesheet" href="http://flycircuit.biobank.org.tw/assets/css/fonts.googleapis.com.css" />
+      <!-- background color -->
+      <link rel="stylesheet" href="http://flycircuit.biobank.org.tw/css/background.css" /><meta name='csrf_token' value='5592f76e59dbafadd8dee42f78cbd0bf692b1b2c4facd93bdd62a17d4a9f91f6'>
